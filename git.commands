@@ -1,0 +1,4 @@
+> git
+> git config --global user.name "amaitcapstone"
+> git config --global user.email amaitcapstone@gmail.com
+> git config --list
