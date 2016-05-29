@@ -3,10 +3,13 @@ Projects
 
 This contains the projects I've been working.
 
-#git commands
+#git initcommands
 > git
+
 > git config --global user.name "amaitcapstone"
+
 > git config --global user.email amaitcapstone@gmail.com
+
 > git config --list
 
 #Go to your project folder
